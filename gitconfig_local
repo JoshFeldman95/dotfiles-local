@@ -1,12 +1,9 @@
 [user]
-	name = Anish Athalye
-	email = me@anishathalye.com
+	name = Josh Feldman 
+	email = joshfeldman95@gmail.com 
 
 [github]
-	user = anishathalye
-
-[log]
-	date = auto:human
+	user = JoshFeldman95 
 
 [core]
 	pager = `brew --prefix git`/share/git-core/contrib/diff-highlight/diff-highlight | less
